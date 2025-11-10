@@ -1,0 +1,28 @@
+.contact-section {
+    padding: 6rem 1.25rem;
+    background-color: #0f0f0f;
+    text-align: center;
+    color: white;
+}
+
+.contact-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.contact-btn {
+    background-color: #ff1c51;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-btn:hover {
+    background-color: #aa062c;
+}

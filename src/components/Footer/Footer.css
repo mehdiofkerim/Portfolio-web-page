@@ -1,0 +1,28 @@
+.footer-section {
+   padding: 1rem 1rem;
+   background-color: #0f0f0f;
+   color: white;
+   text-align: center; 
+}
+
+.footer-section h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.footer-message { 
+    font-size: 16px;
+    margin-bottom: 30px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+    color: #cccccc;
+}
+
+.footer-copy {
+    color: #ff1c51;
+    font-size: 14px;
+    margin-top: 35px;
+}

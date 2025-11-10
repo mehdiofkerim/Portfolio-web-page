@@ -1,0 +1,23 @@
+.social-icon {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.icon-circle {
+    background-color: #ff1c51;
+    color: White;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+}
+
+.icon-circle:hover {
+    background-color: #aa062c;
+}
